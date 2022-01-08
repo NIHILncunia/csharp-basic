@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpBasic", "csharpBasic\csharpBasic.csproj", "{4651A5B2-3933-4379-A441-15DA1AF9FEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4651A5B2-3933-4379-A441-15DA1AF9FEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4651A5B2-3933-4379-A441-15DA1AF9FEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4651A5B2-3933-4379-A441-15DA1AF9FEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4651A5B2-3933-4379-A441-15DA1AF9FEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
